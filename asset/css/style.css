@@ -1,0 +1,28 @@
+/* 
+    Phân tích HTML: Trang chủ
+            1. Left Sidebar
+                - Main tab: 4 tab
+                - Action tab: 9 tab ( có scroll)
+                - Create playlist
+
+            2. Main (scroll)
+                - Header
+                - Content
+                    + Slider
+                    + Nghệ sĩ thịnh hành
+                    + List Mới phát hành
+                    + List Chill
+                    + Nghe là yêu đời
+                    + Tâm trạng hơi suy
+                    + Đối tác âm nhạc
+
+            3. Right Sidebar
+                - Action (position fixed)
+                - Current Song (position fixed)
+                - Playlist Song (scroll)
+
+            4. Progress Bar (position fix)
+                - Current Song
+                - Progress Bar
+                - Action Bar
+*/
